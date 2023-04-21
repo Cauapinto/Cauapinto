@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript, Node, SQL, ReactJS, Python
+- 🌱 I’m currently learning Python, R, SQL, Data science, Business Intelligence
 - 📫 How to reach me: @Cauapinto
 
 
